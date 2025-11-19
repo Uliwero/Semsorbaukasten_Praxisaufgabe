@@ -1,0 +1,14 @@
+﻿ID;Sensor;Sensor Name;Stückzahl;In Betrieb (1) / Nicht in Betrieb (0)
+58231;Lichtsensor;Lichtsensor Umgebung;2;0
+10479;Temperatursensoren;Temperatursensor Prozessleitung;6;1
+93752;Beschleunigungssensor;3-Achs-Beschleunigungssensor;3;1
+46018;Vibrationssensor;Vibrationssensor Motorlager;4;1
+77305;Kraftsensor;Kraftsensor Spannvorrichtung;2;0
+21964;Positionssensor;Absolut-Encoder Achse X;2;1
+84590;Energiemessungen;Energiezähler Schaltschrank;2;0
+31027;Induktiver Drehzahlsensor;Drehzahlsensor Welle A;2;1
+69841;Näherungssensor;Induktiver Näherungssensor;4;1
+55203;Feuchtigkeitssensor;Feuchtigkeitssensor Umgebungsluft;2;0
+12768;Audiosensor;Mikrofonsensor Maschine;1;0
+90436;Drehmomentsensor;Drehmomentsensor Antriebswelle;1;0
+38812;Drucksensor;Drucksensor Hydraulik;3;1
